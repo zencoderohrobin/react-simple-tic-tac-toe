@@ -1,4 +1,4 @@
-#Let's Play Tic Tac Toe.
+# Let's Play Tic Tac Toe
 A simple Tic Tac Toe game app made with React.
 
 [![](https://github.com/zencoderohrobin/react-simple-tic-tac-toe/blob/master/simple-ttt-screenshot.jpg)]
