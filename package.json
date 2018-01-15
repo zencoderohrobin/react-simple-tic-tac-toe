@@ -1,6 +1,8 @@
 {
   "name": "tictactoe",
   "version": "0.1.0",
+  "homepage":
+    "https://zencoderohrobin.github.io/react-simple-tic-tac-toe-build/",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
