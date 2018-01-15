@@ -1,7 +1,7 @@
 # Let's Play Tic Tac Toe
 A simple Tic Tac Toe game app made with React.
 
-[![](https://github.com/zencoderohrobin/react-simple-tic-tac-toe/blob/master/simple-ttt-screenshot.jpg)]
+[![](https://github.com/zencoderohrobin/react-simple-tic-tac-toe/blob/master/simple-ttt-screenshot.jpg)](https://zencoderohrobin.github.io/react-simple-tic-tac-toe/)
 
 ## To play the game right away
 Simply click on the screenshot image above. 
